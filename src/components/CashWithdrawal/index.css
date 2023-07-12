@@ -1,0 +1,43 @@
+/* Write your CSS here */
+
+.bg-container{
+       display:flex;
+       flex-direction:column;
+       justify-content:center;
+       align-items:center;
+}
+.card{
+      background-color: #150b3e;
+      border:0px;
+      border-radius:10px;  
+      width:;
+      height:;
+}
+
+.profile-container{
+      display:flex;
+
+}
+
+.h1{
+      color:#585076;
+
+}
+.h2{
+    color:#c7d2fe;
+}
+.cashContainer{
+
+}
+.balance{
+    
+}
+.amount{
+    
+}
+.heading{
+    
+}
+.minus{
+
+}
